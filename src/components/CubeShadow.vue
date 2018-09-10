@@ -9,7 +9,7 @@ export default {
       default: '40px'
     },
     background: {
-      default: '#41b883'
+      default: '#blue'
     },
     duration: {
       default: '1.8s'

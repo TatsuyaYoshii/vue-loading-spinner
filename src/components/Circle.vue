@@ -58,7 +58,7 @@ export default {
       stroke: #F7C223;
     }
     75% {
-      stroke: #41b883;
+      stroke: blue;
     }
     100% {
       stroke: #35495e;
